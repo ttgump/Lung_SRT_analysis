@@ -1,4 +1,4 @@
-## Code for the analysis of lung SRT data
+# Code for the analysis of mouse lung SRT data
 
 Figurexx.R: code for generating results of figure xx.
 
